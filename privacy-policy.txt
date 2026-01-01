@@ -1,0 +1,89 @@
+Privacy Policy for SoniEffect
+December 31, 2025
+
+At SavifyPro, your privacy and security are our top priorities. Our apps are designed to process everything locally on your device, with no personal data collection, no tracking, and no sharing.
+
+This Privacy Policy explains in detail how the app works, the permissions it requests, and how your information is fully protected.
+
+By using our apps, you agree to this Privacy Policy. If you do not agree, please do not use the app.
+
+1. Absolutely No Data Collection
+We collect nothing. Absolutely nothing.
+All music playback, playlists, and artwork are handled entirely on your device.
+No personal data, audio files, or identifiers are uploaded, transmitted, or logged.
+
+2. Permissions and Their Safe Use
+Even though the app requests certain Android permissions, none are used to collect personal data. They are required only to enable local functionality:
+
+- INTERNET
+  Used only for optional online features, such as fetching album artwork, metadata, or checking for updates.
+  When checking updates, the app sends only the current app version, nothing else.
+
+- ACCESS_NETWORK_STATE
+  Checks if your device is online for optional online features, such as updates or album artwork.
+
+- WAKE_LOCK
+  Keeps music playback running even when your screen is off.
+
+- VIBRATE
+  Provides optional haptic feedback when interacting with the app.
+
+- FOREGROUND_SERVICE & FOREGROUND_SERVICE_MEDIA_PLAYBACK
+  Allows uninterrupted music playback in the background.
+
+- READ_MEDIA_AUDIO
+  Required to access and play audio files stored locally.
+  Audio files never leave your device.
+
+- POST_NOTIFICATIONS (Optional)
+  Used to show notifications about playback or app updates.
+  Notifications can be disabled at any time.
+
+3. Update Checking
+When the app launches, it may check for updates by sending the current app version to our server.
+The server responds only with update information if a newer version is available.
+No other data (such as device identifiers, personal info, or music files) is transmitted.
+This feature exists purely to alert users about updates and improve user experience.
+
+4. Local Processing
+All music playback, playlist management, and metadata handling are processed entirely on your device.
+No data is uploaded, analyzed, or shared.
+The app works fully offline if desired.
+
+5. Local Storage
+Temporary caches may be stored for artwork or metadata to improve performance.
+All caches are local only and deleted when the app is uninstalled.
+
+6. Notifications
+Notifications are used only to show playback or update information.
+They do not contain personal information and cannot be used for tracking.
+Users may disable notifications in device settings at any time.
+
+7. Children’s Privacy
+Our apps are not designed for children under 13.
+Since no personal data is collected, there is no risk to children.
+
+8. Security
+All music files remain on the device.
+Temporary caches are minimal and do not contain personal identifiers.
+No personal data can be exposed because the app does not collect any.
+
+9. User Control
+Users can grant or revoke permissions at any time.
+Music playback, playlists, and caches remain local.
+Uninstalling the app deletes all cached data.
+
+10. Third-Party Libraries
+We use only open-source libraries for UI, caching, or background playback.
+No third-party library collects personal data.
+All processing remains local by design.
+
+11. Updates to This Policy
+Privacy practices may change with app improvements.
+Since no personal data is collected, updates are mostly clarifications or compliance improvements.
+The latest version is always accessible in-app or on https://savifypro.com.
+
+12. Contact
+For any questions or concerns:
+Email: support@savifypro.com
+Website: https://savifypro.com

@@ -1,0 +1,67 @@
+SoniEffect v1.0.0 – First Public Release
+
+Release Date: 2026-01-01
+
+---
+
+Welcome to the first official release of SoniEffect, a modern offline music player designed for smooth performance, playlist management, and advanced audio control. This release includes stable builds with all core features ready for daily use.
+
+---
+
+What's New in v1.0.0:
+
+High-Quality Offline Playback
+  - Smooth background music playback
+  - Shuffle, loop, and repeat modes
+  - Optimized for large music libraries
+
+Local Music Library Management
+  - Organize by Songs, Albums, Artists, and Playlists
+  - View metadata: title, artist, album, duration, artwork
+  - Quick library refresh and folder selection
+
+Smart Default Playlists
+  - Favorites, Recently Played, Most Played
+  - Automatically updates based on listening behavior
+  - Fully manageable and optional
+
+Custom Playlist Manager
+  - Create, rename, delete playlists
+  - Add or remove songs anytime
+  - Optional playlist description and cover image
+
+Audio Control and Sound Tools
+  - Pitch and tempo adjustment
+  - Audio tag editor for metadata: title, artist, album, artwork, genre, year, lyrics
+  - Video to audio conversion tool
+
+Video to Audio Converter
+  - Select video files manually for audio extraction
+  - Secure processing with automatic file removal
+  - Minimal permissions required
+
+Appearance and Visual Customization
+  - Light/Dark mode
+  - Custom primary colors with RGB picker and presets
+  - Dynamic backgrounds based on album artwork
+  - Customizable song list layout
+
+Music Display and Sorting Options
+  - Album artwork, title, artist, duration
+  - Favorite, most played, last played indicators
+  - Minimal or detailed view toggles
+
+App Updates and Version Checking
+  - Automatic and manual update notifications
+  - Manual update check in settings
+
+Privacy-Focused Design
+  - Audio permission only, no full storage access
+  - File access only for specific user actions
+  - Temporary processing storage automatically removed
+
+---
+
+Thank you for trying SoniEffect! We hope it makes your music listening experience simple, stable, and enjoyable.
+
+For feedback or issues, please visit the repository or contact the development team.
